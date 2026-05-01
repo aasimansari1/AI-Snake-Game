@@ -1,0 +1,5 @@
+# pygame-ce is a drop-in `import pygame` replacement that ships prebuilt
+# wheels for newer Python versions (3.13+). Standard `pygame` also works
+# if you are on Python <= 3.12.
+pygame-ce>=2.5.0
+
